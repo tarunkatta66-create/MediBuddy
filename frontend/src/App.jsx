@@ -16,7 +16,7 @@ export default function App() {
   return (
     <div>
       <header className="navbar">
-        <div className="brand-title">MediPredict Clinical Decision Support</div>
+        <div className="brand-title">MediBuddy Clinical Decision Support</div>
         <nav className="nav-links">
           <button
             className={`nav-btn ${activeTab === 'assessment' ? 'active' : ''}`}
