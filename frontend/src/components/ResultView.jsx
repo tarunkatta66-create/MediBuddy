@@ -65,7 +65,7 @@ export default function ResultView({ result, onBack }) {
       </div>
 
       <div className="disclaimer-banner">
-        <strong>Disclaimer:</strong> Educational prototype. Not a medical device. This tool is designed strictly for academic evaluation and clinical algorithm demonstration.
+        <strong>Disclaimer:</strong> This is a Project of Machine Learning, refer to the Doctor for consultancy.
       </div>
     </div>
   );
